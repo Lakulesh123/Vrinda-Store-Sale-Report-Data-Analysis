@@ -81,7 +81,7 @@ Age vs Gender Orders (Clustered Bar)
 
 Sales Channels Contribution (Pie)
 
-📸 Dashboard Snapshot:
+📸 Dashboard Snapshot: https://github.com/Lakulesh123/Vrinda-Store-Sale-Report-Data-Analysis/blob/main/Vrinda%20Sales%20Report%202022%20Data.png
 
 
 🔑 Key Insights
